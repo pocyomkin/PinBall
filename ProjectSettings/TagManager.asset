@@ -10,6 +10,7 @@ TagManager:
   - LargeStarTag
   - SmallCloudTag
   - LargeCloudTag
+  - DebugText
   layers:
   - Default
   - TransparentFX
